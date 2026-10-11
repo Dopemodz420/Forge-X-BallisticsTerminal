@@ -1,5 +1,9 @@
 # Forge-X Ballistics Terminal
 
+<p align="center">
+  <img src="Forge-X-BT.png" width="256" alt="Forge-X Ballistics Terminal">
+</p>
+
 Fire-direction computer for **Arma Reforger** indirect fire — M777 155mm howitzer,
 M252 81mm and 2B14 82mm mortars. Type in gun + target grids, get the exact gun
 settings back. No guesswork, no tabbed-out browser calculators.
